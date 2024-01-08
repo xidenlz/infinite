@@ -13,3 +13,4 @@ you can use your own memory class instead of windows API
 
 ## NOTE:
 This code i made long time ago when i was learning game hacking, simple and basic
+This project is licensed under the [Apache 2.0 license](https://github.com/Mes2d/infinite/blob/main/LICENSE).
