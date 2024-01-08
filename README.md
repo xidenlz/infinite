@@ -10,3 +10,6 @@ you can use your own memory class instead of windows API
 - Download the project and open it using visual studio 2022
 - Set C++ Lang to ISO C++20 Standard (/std:c++20)
 - Bulid
+
+## NOTE:
+This code i made long time ago when i was learning game hacking, simple and basic
