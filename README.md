@@ -11,6 +11,7 @@ you can use your own memory class instead of windows API
 - Set C++ Lang to ISO C++20 Standard (/std:c++20)
 - Bulid
 
-## NOTE:
+### NOTE:
 This code i made long time ago when i was learning game hacking, simple and basic
+### LICENSE:
 This project is licensed under the [Apache 2.0 license](https://github.com/Mes2d/infinite/blob/main/LICENSE).
